@@ -8,6 +8,12 @@ After cloning this git repo download the dataset from [here](https://archive.ics
 
 ![image](https://github.com/anshuvermaa/pharma-friend/assets/96846551/49740e42-765f-4cdb-b6e6-8c200a67ba64)
 
+# steps to run
+1. create python environment 
+2. clone the repo 
+2. go to or cd pharma-friend folder
+3. pip install -r requirements.txt
+
 
 
 
